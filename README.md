@@ -22,7 +22,7 @@ Installation
 Clone the repository:
 sh
 Copy code
-git clone https://github.com/yourusername/Scratched_vr.git
+git clone https://github.com/thundergod-vicky/Scratched_vr.git
 Navigate to the project directory:
 sh
 Copy code
